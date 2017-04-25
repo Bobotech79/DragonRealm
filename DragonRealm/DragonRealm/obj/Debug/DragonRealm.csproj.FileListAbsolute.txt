@@ -1,0 +1,12 @@
+c:\users\acer-07\documents\visual studio 2015\Projects\DragonRealm\DragonRealm\bin\Debug\DragonRealm.exe.config
+c:\users\acer-07\documents\visual studio 2015\Projects\DragonRealm\DragonRealm\bin\Debug\DragonRealm.exe
+c:\users\acer-07\documents\visual studio 2015\Projects\DragonRealm\DragonRealm\bin\Debug\DragonRealm.pdb
+c:\users\acer-07\documents\visual studio 2015\Projects\DragonRealm\DragonRealm\obj\Debug\DragonRealm.exe
+c:\users\acer-07\documents\visual studio 2015\Projects\DragonRealm\DragonRealm\obj\Debug\DragonRealm.pdb
+c:\users\acer-07\documents\visual studio 2015\Projects\DragonRealm\DragonRealm\obj\Debug\DragonRealm.csprojResolveAssemblyReference.cache
+C:\Users\polis\Desktop\DragonRealm\DragonRealm\bin\Debug\DragonRealm.exe.config
+C:\Users\polis\Desktop\DragonRealm\DragonRealm\obj\Debug\DragonRealm.exe
+C:\Users\polis\Desktop\DragonRealm\DragonRealm\obj\Debug\DragonRealm.pdb
+C:\Users\polis\Desktop\DragonRealm\DragonRealm\bin\Debug\DragonRealm.exe
+C:\Users\polis\Desktop\DragonRealm\DragonRealm\bin\Debug\DragonRealm.pdb
+C:\Users\polis\Desktop\DragonRealm\DragonRealm\obj\Debug\DragonRealm.csprojResolveAssemblyReference.cache
